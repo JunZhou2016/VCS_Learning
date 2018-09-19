@@ -43,6 +43,7 @@ public class DistinctTel {
 		//commit red to branch1
 		//commit to branch2.0
 		
+		//分支2.0提交.
 		//commit msg to 2.000
 		// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
 		List<Character> numList = new ArrayList<Character>(numSet);
