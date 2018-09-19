@@ -40,6 +40,8 @@ public class DistinctTel {
 		//红先
 		// 排序;
 		
+		//commit red to branch1
+		
 		//测试冲突解决方案;
 		// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
 		List<Character> numList = new ArrayList<Character>(numSet);
