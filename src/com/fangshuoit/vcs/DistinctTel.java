@@ -42,6 +42,8 @@ public class DistinctTel {
 		//测试冲突解决方案;
 		//commit red to branch1
 		//commit to branch2.0
+		
+		//commit msg to 2.000
 		// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
 		List<Character> numList = new ArrayList<Character>(numSet);
 		Collections.sort(numList);
