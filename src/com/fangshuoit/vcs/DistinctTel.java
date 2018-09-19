@@ -39,9 +39,14 @@ public class DistinctTel {
 		
 		//红先
 		// 排序;
-		
+		//测试冲突解决方案;
 		//commit red to branch1
+		//commit to branch2.0
 		
+// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
+		//分支2.0提交.
+		//commit msg to 2.000
+		// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
 		//commit msg to branch1.000
 		
 		//2.0000000000
