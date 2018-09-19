@@ -26,6 +26,9 @@ public class DistinctTel {
 		}
 		
 		
+		
+		
+		//201809191541
 		// 排序;
 		// 注意基本数据类型不能使用Arrays.asList()方法将数组转化为list;
 		List<Character> numList = new ArrayList<Character>(numSet);
